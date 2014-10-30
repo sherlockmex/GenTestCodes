@@ -1,0 +1,178 @@
+23:03:44.395 [main] INFO  com.legalsoft.generic.gtc.Main - ***** Comenzando ejecucion @2014/10/28 23:03:44.393
+23:03:44.403 [main] INFO  com.legalsoft.generic.gtc.Main - Parametros: 
+max_lines, 7
+error_percent, 50
+error_path, D:\temp\cadenas_error.txt
+basic_path, D:\temp\cadenas_basic.txt
+delay, 2000
+min_lines, 7
+
+23:03:44.406 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Inicializando el modelo @2014/10/28 23:03:44.406
+23:03:44.407 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando modelo con cadenas basicas y de error
+23:03:44.408 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando cadenas basicas de la fuente [D:\temp\cadenas_basic.txt]
+23:03:44.472 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Se han cargado 35 cadenas de la fuente basica [D:\temp\cadenas_basic.txt]
+23:03:44.472 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando cadenas de error de la fuente [D:\temp\cadenas_error.txt]
+23:03:44.473 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Se han cargado 7 cadenas de la fuente de error [D:\temp\cadenas_error.txt]
+23:03:44.475 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Fin de Inicializacion del modelo @2014/10/28 23:03:44.475
+23:03:44.477 [main] INFO  c.l.g.g.c.SimpleGtcController - Comenzando la ejecución de la vista @2014/10/28 23:03:44.477
+23:03:44.478 [main] INFO  c.l.generic.gtc.view.SimpleGtcView - Antes de ejecutar el timerBooleanController
+23:03:44.481 [main] INFO  c.l.generic.gtc.view.SimpleGtcView - timerBooleanController esta en estado [RUNNABLE]
+23:03:44.482 [TIMER] INFO  c.l.g.g.c.TimerBooleanController - Ejecutando el hilo del Timer @2014/10/28 23:03:44.482
+23:03:46.487 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:46.487
+23:03:46.488 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:46.488
+23:03:46.490 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:46.490
+23:03:48.490 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:48.490
+23:03:48.490 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:48.490
+23:03:48.491 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:48.490
+23:03:50.493 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:50.493
+23:03:50.495 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:50.495
+23:03:50.496 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:50.496
+23:03:52.496 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:52.496
+23:03:52.496 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:52.496
+23:03:52.498 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:52.498
+23:03:54.499 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:54.499
+23:03:54.501 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:54.501
+23:03:54.503 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:54.503
+23:03:56.503 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:56.503
+23:03:56.505 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:56.505
+23:03:56.505 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:56.505
+23:03:58.506 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:03:58.506
+23:03:58.506 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:03:58.506
+23:03:58.507 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:03:58.507
+23:04:00.509 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:04:00.509
+23:04:00.509 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:04:00.509
+23:04:00.509 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:04:00.509
+23:04:02.510 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:04:02.510
+23:04:02.510 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:04:02.510
+23:04:02.512 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:04:02.512
+23:04:04.513 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:04:04.513
+23:04:04.514 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:04:04.514
+23:04:04.515 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:04:04.515
+23:04:06.516 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:04:06.516
+23:04:06.516 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:04:06.516
+23:04:06.517 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:04:06.517
+23:06:24.254 [main] INFO  com.legalsoft.generic.gtc.Main - ***** Comenzando ejecucion @2014/10/28 23:06:24.254
+23:06:24.254 [main] INFO  com.legalsoft.generic.gtc.Main - Parametros: 
+max_lines, 7
+error_percent, 50
+error_path, D:\temp\cadenas_error.txt
+basic_path, D:\temp\cadenas_basic.txt
+delay, 2000
+min_lines, 7
+
+23:06:24.254 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Inicializando el modelo @2014/10/28 23:06:24.254
+23:06:24.254 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando modelo con cadenas basicas y de error
+23:06:24.270 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando cadenas basicas de la fuente [D:\temp\cadenas_basic.txt]
+23:06:24.270 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Se han cargado 35 cadenas de la fuente basica [D:\temp\cadenas_basic.txt]
+23:06:24.270 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Cargando cadenas de error de la fuente [D:\temp\cadenas_error.txt]
+23:06:24.270 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Se han cargado 7 cadenas de la fuente de error [D:\temp\cadenas_error.txt]
+23:06:24.270 [main] INFO  c.l.generic.gtc.model.SimpleGtcModel - Fin de Inicializacion del modelo @2014/10/28 23:06:24.270
+23:06:24.270 [main] INFO  c.l.g.g.c.SimpleGtcController - Comenzando la ejecución de la vista @2014/10/28 23:06:24.270
+23:06:24.270 [main] INFO  c.l.generic.gtc.view.SimpleGtcView - Antes de ejecutar el timerBooleanController
+23:06:24.270 [main] INFO  c.l.generic.gtc.view.SimpleGtcView - timerBooleanController esta en estado [RUNNABLE]
+23:06:24.270 [TIMER] INFO  c.l.g.g.c.TimerBooleanController - Ejecutando el hilo del Timer @2014/10/28 23:06:24.270
+23:06:26.283 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:26.283
+23:06:26.283 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:26.283
+23:06:26.283 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:26.283
+23:06:28.284 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:28.284
+23:06:28.284 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:28.284
+23:06:28.284 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:28.284
+23:06:30.285 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:30.285
+23:06:30.285 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:30.285
+23:06:30.285 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:30.285
+23:06:32.285 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:32.285
+23:06:32.285 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:32.285
+23:06:32.285 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:32.285
+23:06:34.292 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:34.292
+23:06:34.292 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:34.292
+23:06:34.292 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:34.292
+23:06:36.292 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:36.292
+23:06:36.292 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:36.292
+23:06:36.292 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:36.292
+23:06:38.296 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:38.296
+23:06:38.296 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:38.296
+23:06:38.296 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:38.296
+23:06:40.296 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:40.296
+23:06:40.296 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:40.296
+23:06:40.296 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:40.296
+23:06:42.303 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:42.303
+23:06:42.303 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:42.303
+23:06:42.303 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:42.303
+23:06:44.304 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:44.304
+23:06:44.304 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:44.304
+23:06:44.304 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:44.304
+23:06:46.305 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:46.305
+23:06:46.305 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:46.305
+23:06:46.305 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:46.305
+23:06:48.307 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:48.307
+23:06:48.307 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:48.307
+23:06:48.307 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:48.307
+23:06:50.316 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:50.316
+23:06:50.316 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:50.316
+23:06:50.316 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:50.316
+23:06:52.321 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:52.321
+23:06:52.321 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:52.321
+23:06:52.321 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:52.321
+23:06:54.322 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:54.322
+23:06:54.322 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:54.322
+23:06:54.322 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:54.322
+23:06:56.323 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:56.323
+23:06:56.323 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:56.323
+23:06:56.323 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:56.323
+23:06:58.337 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:06:58.337
+23:06:58.337 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:06:58.337
+23:06:58.337 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:06:58.337
+23:07:00.337 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:00.337
+23:07:00.337 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:00.337
+23:07:00.337 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:00.337
+23:07:02.338 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:02.338
+23:07:02.338 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:02.338
+23:07:02.338 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:02.338
+23:07:04.338 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:04.338
+23:07:04.338 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:04.338
+23:07:04.338 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:04.338
+23:07:06.348 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:06.348
+23:07:06.348 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:06.348
+23:07:06.348 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:06.348
+23:07:08.362 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:08.362
+23:07:08.362 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:08.362
+23:07:08.362 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:08.362
+23:07:10.365 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:10.365
+23:07:10.365 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:10.365
+23:07:10.365 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:10.365
+23:07:12.366 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:12.366
+23:07:12.366 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:12.366
+23:07:12.366 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:12.366
+23:07:14.366 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:14.366
+23:07:14.366 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:14.366
+23:07:14.366 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:14.366
+23:07:16.368 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:16.368
+23:07:16.368 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:16.368
+23:07:16.368 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:16.368
+23:07:18.372 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:18.372
+23:07:18.372 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:18.372
+23:07:18.372 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:18.372
+23:07:20.378 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:20.378
+23:07:20.378 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:20.378
+23:07:20.378 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:20.378
+23:07:22.389 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:22.389
+23:07:22.389 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:22.389
+23:07:22.389 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:22.389
+23:07:24.390 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:24.390
+23:07:24.390 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:24.390
+23:07:24.390 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:24.390
+23:07:26.391 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:26.391
+23:07:26.391 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:26.391
+23:07:26.391 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:26.391
+23:07:28.391 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:28.391
+23:07:28.391 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:28.391
+23:07:28.391 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:28.391
+23:07:30.395 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:30.395
+23:07:30.395 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:30.395
+23:07:30.395 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:30.395
+23:07:32.397 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:32.397
+23:07:32.397 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:32.397
+23:07:32.397 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:32.397
+23:07:34.398 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Accion de evento recibida @2014/10/28 23:07:34.398
+23:07:34.398 [TIMER] INFO  c.l.generic.gtc.view.SimpleGtcView - Actualizando vista @2014/10/28 23:07:34.398
+23:07:34.398 [TIMER] INFO  c.l.g.g.c.SimpleGtcController - Vista actualizada @2014/10/28 23:07:34.398
