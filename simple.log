@@ -1,0 +1,938 @@
+00:24:58.992 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - moment.
+00:25:00.007 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:25:01.007 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:02.007 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:03.008 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:04.008 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:05.020 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:25:06.020 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:25:07.020 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:25:17.357 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:25:18.367 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:19.367 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:20.380 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - was.
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:25:21.380 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:25:22.380 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:23.380 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:24.381 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:25:25.381 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:25:26.386 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:27.386 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:28.386 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:29.386 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:30.387 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:31.387 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - moment.
+00:25:32.387 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:25:33.387 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:25:34.387 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:25:35.387 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:25:36.390 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:25:37.390 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - was.
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:25:38.390 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:25:39.390 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:40.390 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:25:41.390 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:25:42.390 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - moment.
+00:25:43.402 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:25:44.402 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:25:45.402 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - was.
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:25:46.404 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:25:47.404 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - moment.
+00:25:48.405 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:25:49.405 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:50.406 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:25:51.416 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:25:52.416 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:25:53.416 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:54.417 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:55.417 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:56.417 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:57.417 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - was.
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:25:58.417 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:25:59.419 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:00.420 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:01.420 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:02.420 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:03.420 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:04.420 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:05.420 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:06.432 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:07.432 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:08.444 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - was.
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:09.444 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:10.444 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:11.444 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:12.444 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:13.444 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:14.455 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:15.455 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:16.466 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - was.
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:17.466 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:18.467 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:19.467 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:20.467 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:21.467 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:22.476 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:23.476 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:24.476 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:25.476 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - was.
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:26.477 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:27.477 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:28.477 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:29.477 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:30.477 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:31.477 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:32.481 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:33.481 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - was.
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:34.481 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:35.481 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:36.481 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:37.481 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:38.481 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:39.495 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:40.495 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:41.495 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:42.496 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:43.496 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:44.496 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:45.496 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - was.
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:46.496 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:47.496 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:48.496 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:49.496 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:50.496 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:51.497 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:26:52.506 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:26:53.506 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:26:54.519 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - was.
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:26:55.519 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:26:56.519 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - moment.
+00:26:57.519 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:26:58.519 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:26:59.519 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:27:00.519 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - was.
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:27:01.535 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:27:02.535 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - moment.
+00:27:03.535 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:27:04.535 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:27:05.539 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:27:06.539 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - was.
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:27:07.539 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!
+00:27:08.539 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:09.539 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - Travelling day in and day out.
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - Doing business like this takes much more effort than doing your own business at
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - home, and on top of that there's the curse of travelling, worries about making
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - train connections, bad and irregular food, contact with different people all the
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - time so that you can never get to know anyone or become friendly with them.
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - It can all go to Hell!
+00:27:10.539 [TIMER] INFO  SIMPLEGEN - " He felt a slight itch 
+00:27:11.545 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:12.545 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - One morning, when Gregor Samsa woke from troubled dreams, he found himself 
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - transformed in his bed into a horrible vermin.
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - He lay on his armour-like back, and if he lifted his head a little he could see
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - his brown belly, slightly domed and divided by arches into stiff sections.
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - The bedding was hardly able to cover it and seemed ready to slide off any 
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - moment.
+00:27:13.545 [TIMER] INFO  SIMPLEGEN - His many legs, pitifully thin compared with the size of the rest of him, waved
+00:27:14.545 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:15.545 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:16.559 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - about helplessly as he looked.
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - "What's happened to me? " he thought. It wasn't a dream.
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - His room, a proper human room although a little too small, lay peacefully 
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - between its four familiar walls.
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - A collection of textile samples lay spread out on the table - Samsa was a 
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - travelling salesman - 
+00:27:17.559 [TIMER] INFO  SIMPLEGEN - and above it there hung a picture that he had recently cut out of an illustrated
+00:27:18.572 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:19.572 [TIMER] ERROR SIMPLEGEN - ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - magazine and housed in a nice, gilded frame.
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - It showed a lady fitted out with a fur hat and fur boa who sat upright, raising
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - a heavy fur muff that covered the whole of her lower arm towards the viewer.
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - Gregor then turned to look out the window at the dull weather.
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - Drops of rain could be heard hitting the pane, which made him feel quite sad.
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - "How about if I sleep a little bit longer and forget all this nonsense", he 
+00:27:20.572 [TIMER] INFO  SIMPLEGEN - thought, but that was something he was unable to do because he was used to 
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - sleeping on his right, and in his present state couldn't get into that position.
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - However hard he threw himself onto his right, he always rolled back to where he 
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - was.
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - He must have tried it a hundred times, shut his eyes so that he wouldn't have to
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - look at the floundering legs, and only stopped when he began to feel a mild, 
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - dull pain there that he had never felt before.
+00:27:21.572 [TIMER] INFO  SIMPLEGEN - "Oh, God", he thought, "what a strenuous career it is that I've chosen!

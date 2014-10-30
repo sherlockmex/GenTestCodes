@@ -22,7 +22,6 @@ package com.legalsoft.generic.gtc.model;
 
 import com.legalsoft.generic.gtc.Main;
 import com.legalsoft.generic.gtc.exception.SimpleGtcException;
-import com.legalsoft.generic.gtc.helper.Pair;
 import com.legalsoft.generic.gtc.helper.ParameterReader;
 import com.legalsoft.generic.gtc.model.dao.FileStringDAO;
 import java.nio.file.Path;

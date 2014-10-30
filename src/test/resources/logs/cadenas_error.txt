@@ -1,0 +1,7 @@
+ERROR com.legalsoft.generic.gtc.Main - Error de inicializacion: 
+com.legalsoft.generic.gtc.exception.SimpleGtcException: [Parameter] - El parametro solicitado [{error_path}] no ha sido provisto
+	at com.legalsoft.generic.gtc.helper.ParameterReader.assertParam(ParameterReader.java:126) ~[classes/:na]
+	at com.legalsoft.generic.gtc.helper.ParameterReader.getPath(ParameterReader.java:206) ~[classes/:na]
+	at com.legalsoft.generic.gtc.model.SimpleGtcModel.initModel(SimpleGtcModel.java:121) ~[classes/:na]
+	at com.legalsoft.generic.gtc.controller.SimpleGtcController.init(SimpleGtcController.java:81) ~[classes/:na]
+	at com.legalsoft.generic.gtc.Main.main(Main.java:97) ~[classes/:na]	

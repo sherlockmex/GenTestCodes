@@ -10,8 +10,9 @@
                 <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
             </goals>
             <properties>
-                <exec.args>-classpath %classpath com.legalsoft.generic.gtc.Main /delay:2000 /error_percent:50 /basic_path:D:\temp\cadenas_basic.txt /error_path:D:\temp\cadenas_error.txt /min_lines:7 /max_lines:7</exec.args>
+                <exec.args>-classpath %classpath com.legalsoft.generic.gtc.Main /basic_path:src/test/resources/logs/cadenas_basic.txt /error_path:src/test/resources/logs/cadenas_error.txt /delay:1000 /error_percent:50 /min_lines:7 /max_lines:7</exec.args>
                 <exec.executable>java</exec.executable>
+                <exec.workingdir>D:\Banxico\AEDLG\Desarrollo\999_Personal\GenTestCodes</exec.workingdir>
             </properties>
         </action>
         <action>
@@ -24,9 +25,10 @@
                 <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
             </goals>
             <properties>
-                <exec.args>-Xdebug -Xrunjdwp:transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath com.legalsoft.generic.gtc.Main /delay:2000 /error_percent:50 /basic_path:D:\temp\cadenas_basic.txt /error_path:D:\temp\cadenas_error.txt /min_lines:7 /max_lines:7</exec.args>
+                <exec.args>-Xdebug -Xrunjdwp:transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath com.legalsoft.generic.gtc.Main /basic_path:src/test/resources/logs/cadenas_basic.txt /error_path:src/test/resources/logs/cadenas_error.txt /delay:1000 /error_percent:50 /min_lines:7 /max_lines:7</exec.args>
                 <exec.executable>java</exec.executable>
                 <jpda.listen>true</jpda.listen>
+                <exec.workingdir>D:\Banxico\AEDLG\Desarrollo\999_Personal\GenTestCodes</exec.workingdir>
             </properties>
         </action>
         <action>
@@ -39,8 +41,9 @@
                 <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
             </goals>
             <properties>
-                <exec.args>-classpath %classpath com.legalsoft.generic.gtc.Main /delay:2000 /error_percent:50 /basic_path:D:\temp\cadenas_basic.txt /error_path:D:\temp\cadenas_error.txt /min_lines:7 /max_lines:7</exec.args>
+                <exec.args>-classpath %classpath com.legalsoft.generic.gtc.Main /basic_path:src/test/resources/logs/cadenas_basic.txt /error_path:src/test/resources/logs/cadenas_error.txt /delay:1000 /error_percent:50 /min_lines:7 /max_lines:7</exec.args>
                 <exec.executable>java</exec.executable>
+                <exec.workingdir>D:\Banxico\AEDLG\Desarrollo\999_Personal\GenTestCodes</exec.workingdir>
             </properties>
         </action>
     </actions>
