@@ -1,0 +1,1 @@
+perl -wMdiagnostics ReadErrorBlockPlain.pl btmxindSCO.log "^#{4}<" "<ERROR"  "####(<.*?> ){9}<(.*?)> .*" 1 > salida.txt
