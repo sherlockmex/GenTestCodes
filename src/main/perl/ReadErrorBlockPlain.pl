@@ -6,7 +6,7 @@
 
 use strict;
 use warnings;
-use Digest::SHA qw(sha256_hex);
+use Digest::SHA::PurePerl qw(sha256_hex);
 use Config::Tiny;
 
 =begin comment
@@ -215,7 +215,7 @@ while(<FILEHANDLE>) {
       unless (cuenta_coincidencias(\@array, \@array_omit) > 0) {
         # obtener el ID usando el hash.
         my $digest;
-        my $sha = Digest::SHA->new(256);
+        my $sha = Digest::SHA::PurePerl->new(256);
         for (@array) {
             $sha->add($_);
         }

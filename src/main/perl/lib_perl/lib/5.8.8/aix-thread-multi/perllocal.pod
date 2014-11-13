@@ -1,0 +1,66 @@
+=head2 Fri Nov  7 22:40:29 2014: C<Module> L<File::Tail|File::Tail>
+
+=over 4
+
+=item *
+
+C<installed into: /home/lgalvan/mensajes_error/lib_perl/lib/site_perl/5.8.8>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99.3>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Nov 11 12:11:22 2014: C<Module> L<Digest::SHA::PurePerl|Digest::SHA::PurePerl>
+
+=over 4
+
+=item *
+
+C<installed into: /home/repouser/Soporte_Indeval/mensajes_error/lib_perl/lib/site_perl/5.8.8>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.93>
+
+=item *
+
+C<EXE_FILES: shasum>
+
+=back
+
+=head2 Tue Nov 11 13:24:11 2014: C<Module> L<File::Tail|File::Tail>
+
+=over 4
+
+=item *
+
+C<installed into: /home/repouser/Soporte_Indeval/mensajes_error/lib_perl/lib/site_perl/5.8.8>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99.3>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

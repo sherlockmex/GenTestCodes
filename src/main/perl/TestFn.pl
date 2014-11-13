@@ -1,13 +1,13 @@
 #!/usr/bin/perl
 #
 # @File TestFn.pl
-# @Author Angel
+# @Author Leticia
 # @Created 9/11/2014 05:37:21 PM
 #
 
 use strict;
 use warnings;
-use Digest::SHA qw(sha256_hex);
+use Digest::SHA::PurePerl qw(sha256_hex);
 use Config::Tiny;
 
 =begin comment
@@ -109,7 +109,7 @@ sub calcula_id {
   my (@array) = @_;
   
   my $digest;
-  my $sha = Digest::SHA->new(256);
+  my $sha = Digest::SHA::PurePerl->new(256);
   for (@array) {
     $sha->add($_);
   }
@@ -239,7 +239,7 @@ sub escribe_bloque_filtrado_rotadofecha {
     # Escribir el arreglo.
     print FILEHANDLE join("", @array);
     # e imprimir el delimitador, si está definido.
-    print SALIDA $delimiter, "\n" if defined $delimiter;
+    print FILEHANDLE $delimiter, "\n" if defined $delimiter;
     # cerrar el archivo.
     close FILEHANDLE or die "No se pudo cerrar el archivo $file_filtered.$sufijo_fecha: $!";;    
 }

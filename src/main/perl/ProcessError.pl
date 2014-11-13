@@ -1,13 +1,13 @@
 #!/usr/bin/perl
 #
 # @File ProcessError.pl
-# @Author Angel
+# @Author Leticia
 # @Created 8/11/2014 10:06:19 PM
 #
 
 use strict;
 use warnings;
-use Digest::SHA qw(sha256_hex);
+use Digest::SHA::PurePerl qw(sha256_hex);
 use Config::Tiny;
 
 =begin comment
@@ -162,7 +162,7 @@ sub calcula_id {
   my (@array) = @_;
   
   my $digest;
-  my $sha = Digest::SHA->new(256);
+  my $sha = Digest::SHA::PurePerl->new(256);
   for (@array) {
     $sha->add($_);
   }

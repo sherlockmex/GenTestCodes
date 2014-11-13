@@ -2,7 +2,7 @@
 
 # ReadErrorBlockPlainRotated
 # v 1.2
-# Búsqueda de errores como bloques en archivos, aun si son rotados.
+# Bï¿½squeda de errores como bloques en archivos, aun si son rotados.
 
 use strict;
 use warnings;
@@ -11,7 +11,7 @@ use Digest::SHA qw(sha256_hex);
 use File::Tail;
 
 =begin comment
-Función que valida los argumentos y si no son los adecuados, muestra la ayuda del programa y luego se sale.
+Funciï¿½n que valida los argumentos y si no son los adecuados, muestra la ayuda del programa y luego se sale.
 =cut
 sub valida_args {
   my @args = @_;
@@ -23,8 +23,8 @@ sub valida_args {
 }
 
 =begin comment
-Función principal.
- @param ARGV La lista de parámetros de la línea de comandos.
+Funciï¿½n principal.
+ @param ARGV La lista de parï¿½metros de la lï¿½nea de comandos.
 =cut
 # args: ($ARGV)
 # valida los argumentos
@@ -50,14 +50,14 @@ my $file;
 $file=File::Tail->new(name=>$file_name, maxinterval=>30, adjustafter=>7, interval=>1, tail=>-1);
 open SALIDA, ">".$file_name."filtrado" or die "No se pudo abrir el archivo ".$file_name."filtrado";
 # mientras haya datos en el archivo...
-# un arreglo para guardar las líneas del error.
+# un arreglo para guardar las lï¿½neas del error.
 my @array;
 my @array_num_lineas;
 my $num_linea = 0;
 my @id;
 my $line;
 while(defined($line=$file->read)) {
-  # si la línea no cumple el patrón de error, agregarla al arreglo
+  # si la lï¿½nea no cumple el patrï¿½n de error, agregarla al arreglo
   # my $line=$_;  
   unless ($line=~/$pattern_block/) {
     # es parte del error
@@ -89,17 +89,17 @@ while(defined($line=$file->read)) {
 	}
 	# limpiar el arreglo.
 	undef(@array);
-	# también el de las líneas.
+	# tambiï¿½n el de las lï¿½neas.
 	undef(@array_num_lineas);
 	# colocar ahora la linea que es parte del error.
 	push(@array, $line);
-	# también el número de linea
+	# tambiï¿½n el nï¿½mero de linea
     push (@array_num_lineas, $num_linea);
   }
   $num_linea += 1;
 }
 # al final, si tenemos algo en el arreglo, que siempre lo tendremos, que 
-# cumpla también con el patrón, imprimirlo
+# cumpla tambiï¿½n con el patrï¿½n, imprimirlo
 if (@array > 0) {
   if (grep(/$pattern_display/, @array) > 0) {
     print SALIDA join("\n", @array);

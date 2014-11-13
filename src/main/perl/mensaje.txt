@@ -1,0 +1,1 @@
+ERROR [12/11/2014 14:59:46] (ExceptionProcessor.java:process:42) - se genero un error 
